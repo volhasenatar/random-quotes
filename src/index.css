@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.quotes {
+  padding: 20px;
+}
+h1 {
+  text-align: center;
+  font-family: 'Mali', cursive;
+}
+button {
+  height: 40px;
+  border: none;
+  border-radius: 3px;
+  color: #fff;
+  background-color: #333;
+  font-size: 15px;
+  font-family: 'Mali', cursive;
+  margin: 30px;
+  cursor: pointer;
+  padding: 5px 10px;
+}
+button:hover {
+  background-color: rgb(82, 82, 82);
+}

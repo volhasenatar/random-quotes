@@ -1,0 +1,8 @@
+.App {
+  max-width: 700px;
+  margin: 150px auto;
+  background: white;
+  border: 2px solid rebeccapurple;
+  box-shadow: 0 8px 16px 0 rgb(137 70 166);
+  border-radius: 5px;
+}
